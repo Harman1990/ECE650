@@ -1,6 +1,8 @@
 ECE 650 - Methods & Tools for Software Engineering
 Python & C++
 
+Project: Vertex Cover - Optimization
+
 The project was completed as part of the ECE650 Graduate Coursework at the University of Waterloo.
 
 The goal of the project is to assist the local police force in installing surveillance cameras at busy junctions. In this context, we'll solve a specific type of optimization issue known as the Vertex Cover problem. The goal is for the police to be able to reduce the number of cameras they need to place while still monitoring as effectively as feasible. You must: i)Take a series of commands that describe streets as input for this task. ii)Construct a certain type of undirected graph using the data. To summarise the project, it is divided into four assignments.
